@@ -1,5 +1,5 @@
 {
-  "name": "15-proyecto-carrito",
+  "name": "01-carrito-js",
   "version": "1.0.0",
   "description": "Carrito de compra con JS",
   "main": "index.js",
@@ -10,5 +10,13 @@
     "JavaScript"
   ],
   "author": "Donovan Eliosa",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tackless/01-Carrito-JS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tackless/01-Carrito-JS/issues"
+  },
+  "homepage": "https://github.com/Tackless/01-Carrito-JS#readme"
 }
